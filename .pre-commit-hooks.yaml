@@ -1,0 +1,6 @@
+-   id: yaml-sorter
+    name: Sort YAML files
+    language: python
+    entry: yaml-sorter
+    description: Sorts YAML files
+    files: '^$'
